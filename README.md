@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Marco Menezes
 
-<!--
 Globe Showing Europe Based in São Paulo, Brazil
 - 🔭 I’m currently working as a Senior Data Engineer
 - 🌱 I’m currently creating rand-engine library
@@ -9,4 +8,3 @@ Globe Showing Europe Based in São Paulo, Brazil
 - :linkedin: follow me on linkedin: 
 - 😄 Pronouns: ...
 - ⚡ Always diving into new tech to stay ahead
---
